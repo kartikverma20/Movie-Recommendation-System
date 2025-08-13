@@ -1,6 +1,7 @@
 # Movie Recommendation System
 
-![Python](https://img.shields.io/badge/Python-3.11-blue)
+find the dataset used here - https://www.kaggle.com/datasets/rounakbanik/the-movies-dataset
+https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata
 
 ## Overview
 
