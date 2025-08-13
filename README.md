@@ -1,8 +1,4 @@
-Here’s a concise, GitHub-friendly **README** for your Movie Recommendation System:
-
----
-
-# 🎬 Movie Recommendation System
+# Movie Recommendation System
 
 ![Python](https://img.shields.io/badge/Python-3.11-blue)
 
@@ -24,7 +20,3 @@ The **Movie Recommendation System** provides personalized movie suggestions usin
 * Commit your changes: `git commit -m "Add feature"`.
 * Push to your branch: `git push origin feature-name`.
 * Open a pull request describing your changes.
-
----
-
-If you want, I can also make a **shorter, one-screen version** that’s perfect for GitHub’s main page. Do you want me to do that?
